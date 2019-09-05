@@ -71,6 +71,8 @@ function App() {
 const TheH1 = styled.h1`
   font-size: 3rem;
   color: white;
+  background-color: black;
+  opacity: 0.7;
 `;
 
 export default App;
