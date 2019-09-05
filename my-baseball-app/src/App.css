@@ -1,10 +1,14 @@
 body {
-  background-image: url("https://wallpapercave.com/w/wp3597315.jpg");
+  background-image: url("https://wallpapercave.com/w/wp3597359.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
 }
 
 .App {
   text-align: center;
-  margin-top: 15rem;
+  margin-top: 8rem;
 }
 
 .App-logo {
