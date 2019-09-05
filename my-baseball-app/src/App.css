@@ -1,5 +1,10 @@
+body {
+  background-image: url("https://wallpapercave.com/w/wp3597315.jpg");
+}
+
 .App {
   text-align: center;
+  margin-top: 25rem;
 }
 
 .App-logo {

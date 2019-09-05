@@ -21,10 +21,10 @@ test("button for balls included", () => {
 
 test("button for hit included", () => {
   const hitButton = render(<App />);
-  hitButton.getByText(/hit/i);
+  hitButton.getByTestId("hitbtn");
 });
 
 test("button for foulBall included", () => {
   const FoulBallButton = render(<App />);
-  FoulBallButton.getByText(/foulBall/i);
+  FoulBallButton.getByTestId("foulballbtn");
 });
